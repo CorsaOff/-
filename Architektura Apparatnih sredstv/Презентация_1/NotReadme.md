@@ -8,3 +8,17 @@
 Тоже на всякий пожарный
 
 <img width="934" height="663" alt="image" src="https://github.com/user-attachments/assets/509ac4c7-0fd0-40f6-a7e4-1e8bfed3a1c0" />
+
+<img width="943" height="674" alt="image" src="https://github.com/user-attachments/assets/1b984d64-8c10-451e-b22e-66fc54d04a61" />
+
+<img width="922" height="673" alt="image" src="https://github.com/user-attachments/assets/73669bbd-0169-4170-baec-4b889ccff085" />
+
+<img width="934" height="677" alt="image" src="https://github.com/user-attachments/assets/2c8bf261-50ad-413e-9cd3-e6166265820d" />
+
+<img width="933" height="674" alt="image" src="https://github.com/user-attachments/assets/07283387-4e01-44c0-8186-9e002d838925" />
+
+<img width="940" height="676" alt="image" src="https://github.com/user-attachments/assets/5a8332c5-37c7-479a-a9fa-785f7e5b63ce" />
+
+<img width="937" height="678" alt="image" src="https://github.com/user-attachments/assets/ccf7c434-dda5-4bbf-952e-ccde37953f31" />
+
+
