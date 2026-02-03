@@ -1,0 +1,16 @@
+
+table_content = """| Параметр                      | Название                                    |
+|-------------------------------|---------------------------------------------|
+| Имя процессора                | Intel(R) Core(TM) i3-2130 CPU @ 3.40GHz     |
+| Версия BIOS                   | HPQOEM - 1072009                            |
+| Имя компьютера                | SP-3-302-00042                              |
+| Объем ОЗУ                     | 8192MB                                      |
+| Объем жесткого диска          | 238472MB                                    |
+| Операционная система          | Windows Enterprise 2015 LTSB 10             |
+| Разрядность ОС                | 64-bit                                      |
+| Определите сетевой адаптер.   | Intel(R) 82579LM Gigabit Network Connection |
+| Видеоадаптер                  | Intel(R) HD Graphics                        |
+| Возраст пароля пользователя «st» | 19 Дни 22 Hours 15 Минуты                   |"""
+
+with open('system_specs.md', 'w', encoding='utf-8') as f:
+    f.write(table_content)
