@@ -6,7 +6,7 @@
 | Имя компьютера                | SP-3-302-00042                              |
 | Объем ОЗУ                     | 8192MB                                      |
 | Объем жесткого диска          | 238472MB                                    |
-| Операционная система          | Windows Enterprise 2015 LTSB 10             |
+| Операционная система          | Windows Enterprise 2015 LTSB, win 10             |
 | Разрядность ОС                | 64-bit                                      |
 | Определите сетевой адаптер.   | Intel(R) 82579LM Gigabit Network Connection |
 | Видеоадаптер                  | Intel(R) HD Graphics                        |
