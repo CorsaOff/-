@@ -24,6 +24,8 @@
 Безопасность: Так часто работают пентестеры (этичные хакеры). Им дают схему сети, но не дают пароли — они ищут дыры, зная, где искать.
 
 
+<img width="730" height="548" alt="image" src="https://github.com/user-attachments/assets/4b965e47-8b0e-43b7-b5ec-5225b26a75db" />
+
 <img width="943" height="702" alt="image" src="https://github.com/user-attachments/assets/322adb1e-0f69-4b4e-9533-0e7b1b8c1300" />
 ----------------------------------------------------------------------------------------------------------------------------
 <img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/b330f0a0-6c27-4a33-84ae-dbbd6aace7a7" />
@@ -41,4 +43,7 @@
 <img width="936" height="703" alt="image" src="https://github.com/user-attachments/assets/97e06d29-3ba3-4e38-91a4-b63da7b1082f" />
 ----------------------------------------------------------------------------------------------------------------------------
 <img width="945" height="703" alt="image" src="https://github.com/user-attachments/assets/a199a093-1497-448d-ac4d-70b6e76b30a4" />
+
+<img width="698" height="522" alt="image" src="https://github.com/user-attachments/assets/1f7c915d-eea9-4d0c-b3a9-e46c5398a642" />
+
 
