@@ -1,1 +1,1 @@
-[ Архитектура аппаратных средств основа ] ( /Architektura Apparatnih sredstv )
+[ Архитектура аппаратных средств основа ] (/Architektura Apparatnih sredstv)
